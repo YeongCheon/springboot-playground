@@ -1,1 +1,1 @@
-[[DOCUMENT][https://yeongcheon.github.io/posts/2020-09-06-kotlin-spring-exception-rollback]]
+[[https://yeongcheon.github.io/posts/2020-09-06-kotlin-spring-exception-rollback][link]]
